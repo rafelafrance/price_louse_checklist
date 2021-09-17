@@ -20,5 +20,5 @@ pip install -r requirements.txt
 pip install -U pynvim
 pip install -U 'python-lsp-server[all]'
 pip install -U autopep8 flake8 isort pylint yapf pydocstyle black
-pip install -U jupyter jupyter_nbextensions_configurator ipyparallel
+pip install -U jupyter_nbextensions_configurator ipyparallel
 ```
